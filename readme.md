@@ -4,6 +4,7 @@
 
 [**中文**](./readme_zh.md)
 
+安卓音乐框架。
 Android music player framework. Compatible with MediaSession.
 
 **Support:**
